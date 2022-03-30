@@ -2,10 +2,11 @@
 
 ## I'm a nice guy, self-learner, Developer, and a good d**m Cooker!!
 
+- 💻 I'm a former student of Computer Science
 - 🌱 I’m currently getting deeper on Spring Framework and Java
 - 👯 I’m looking to learn and collaborate with other experienced programmers
 - 🥅 2022 Goals: Get my first job in software development
-- ⚡ Fun fact: I play guitar but, my dream is get an accordion (🤑)
+- ⚡ Fun fact: I play guitar but, my dream is master an accordion (🤑)
 
 ### Connect with me:
 
