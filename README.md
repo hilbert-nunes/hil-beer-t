@@ -35,7 +35,7 @@
 [<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:10px;" />][android]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 <br />
-<br />
+<br/>
 
 
 [instagram]: https://instagram.com/hil_beer_t/
