@@ -25,7 +25,7 @@
 [<img align="left" alt="Swagger" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />][postman]
 [<img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="padding-right:10px;" />][kafka]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />][postgres]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mongo]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mongo] 
 [<img align="left" alt="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="padding-right:10px;" />][heroku]
 [<img align="left" alt="Netlify" width="26px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" style="padding-right:10px;" />][netlify]
