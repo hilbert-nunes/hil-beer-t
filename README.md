@@ -6,7 +6,7 @@
 - 🙋🏻‍♂️ I’m currently getting deeper into Backend, Spring Framework and Java
 - 👯 I’m looking to learn and collaborate with other experienced programmers
 - 🥅 2022 Goals: Get my first job in software development
-- ⚡ Fun fact: I play guitar but, my dream is master an accordion (🤑)
+- ⚡ Fun fact: I play guitar but, my dream is to master accordion (🤑)
 
 ### Connect with me:
 
