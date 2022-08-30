@@ -32,19 +32,14 @@
 
 [instagram]: https://instagram.com/hil_beer_t/
 [linkedin]: https://linkedin.com/in/hilbert-digenio/
+
 [java]: https://www.java.com/pt-BR/
 [spring]: https://spring.io/
-[openapi]: https://www.openapis.org/
-[swagger]: https://swagger.io/
-[kafka]: https://kafka.apache.org/
+[angular]: https://angular.io/
+[tailwindcss]: https://tailwindcss.com/
 [postgres]: https://www.postgresql.org/
 [mongo]: https://www.mongodb.com/
 [mysql]: https://www.mysql.com/
-[heroku]: https://www.heroku.com/platform
-[netlify]: https://www.netlify.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[react]: https://reactjs.org/
-[android]: https://www.android.com/
-[git]: https://git-scm.com/doc
-[postman]: https://www.postman.com/
+[ts]: https://www.typescriptlang.org/
+
