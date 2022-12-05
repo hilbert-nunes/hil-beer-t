@@ -4,8 +4,7 @@
 
 - 💻 Bachelor's in Computer Science
 - 👯 I’m looking to learn and collaborate with other experienced programmers
-- 🥅 2022 Goals: Get my first job in software development
-- ⚡ Fun fact: I play guitar but, my dream is to master accordion (🤑)
+- ⚡ Fun fact: I have a guinea pig 🐷
 
 ### Connect with me:
 
