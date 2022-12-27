@@ -4,7 +4,6 @@
 
 - 💻 Bachelor's in Computer Science
 - 👯 I’m looking to learn and collaborate with other experienced programmers
-- ⚡ Fun fact: I have a guinea pig 🐷
 
 ### Connect with me:
 
